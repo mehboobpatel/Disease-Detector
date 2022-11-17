@@ -37,9 +37,6 @@ requests
 requests-oauthlib
 rsa
 six
-tensorboard
-tensorflow
-tensorflow-estimator
 termcolor
 typing-extensions
 urllib3
